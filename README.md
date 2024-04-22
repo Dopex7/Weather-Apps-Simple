@@ -1,2 +1,3 @@
-# Weather App Simple
+# Simple Weather App
+https://dopex7.github.io/shikokohen/
  
